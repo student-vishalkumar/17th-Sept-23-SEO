@@ -1,0 +1,7 @@
+What is Favicon?
+
+A favicon is a small 16×16 pixel icon that serves as branding for your website. Its main purpose is to help visitors locate your page easier when they have multiple tabs open.
+
+where we can see the Favicon?
+
+Favicons are found next to anything that identifies your website. This includes bookmarks, tabs, toolbar apps, history results, and search bars.
